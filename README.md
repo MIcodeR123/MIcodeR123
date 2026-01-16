@@ -1,8 +1,16 @@
-- salut je suis MIcodeR
-- je suis passionne par l'informatique et la creation de jeux
-- j'esseye d'ameliorer au mieux mes proget
-- voici quelque lien vers mes proget :
+AgamesStudio is an independent game development studio focused on creating fun, immersive, and innovative gaming experiences. We love experimenting with gameplay mechanics, visual styles, and emerging technologies to turn creative ideas into playable worlds.
 
-- MINECRAFT : coolbabycraft : https://www.curseforge.com/minecraft/texture-packs/coolbabycraft , coolbabycraft edition GUI : https://www.curseforge.com/minecraft/texture-packs/coolbabycraft-gui-edition
+Our mission is simple: make games that are enjoyable, memorable, and a little bit different. Whether it’s small experimental projects, larger narrative-driven games, or technical prototypes, every project is an opportunity to learn, improve, and push our skills further.
 
-- ROBLOX : Acorp : www.roblox.com/fr/games/86879449819816/Acorp-technologie-inc-rp-MISE-A-JOUR?gameSetTypeId=100000003&homePageSessionInfo=a722f967-f78c-4171-b757-633c3f87e432&isAd=false&numberOfLoadedTiles=49&page=sortDetailPageHome&placeId=86879449819816&position=10&universeId=6498716436
+We believe that great games come from curiosity, iteration, and passion. That’s why we embrace testing, prototyping, and refining ideas until they feel right. We’re not afraid to try weird concepts, break rules, and rebuild things better than before.
+
+AgamesStudio also values clean code, smart systems, and strong foundations. Behind every fun game is solid engineering, thoughtful design, and a lot of problem-solving. We enjoy exploring game engines, tools, scripting, shaders, AI, and performance optimization.
+
+This GitHub is where we share our projects, experiments, tools, and learning journey. You’ll find game prototypes, libraries, open-source tools, and behind-the-scenes code that powers our creations.
+
+We’re always learning, always building, and always leveling up. If you love games, creativity, and tech, you’re in the right place.
+
+Our projects : 
+CurseForge : https://www.curseforge.com/members/agames_studio
+
+Modrinth : https://modrinth.com/organization/agamesstudio
